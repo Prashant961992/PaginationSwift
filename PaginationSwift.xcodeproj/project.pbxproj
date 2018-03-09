@@ -15,6 +15,7 @@
 		8F197667205250440034F39C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F197665205250440034F39C /* LaunchScreen.storyboard */; };
 		8F197672205250440034F39C /* PaginationSwiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F197671205250440034F39C /* PaginationSwiftTests.swift */; };
 		8F19767D205250440034F39C /* PaginationSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F19767C205250440034F39C /* PaginationSwiftUITests.swift */; };
+		8F19768B2052518A0034F39C /* PaginationcCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F19768A2052518A0034F39C /* PaginationcCollectionCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8F197678205250440034F39C /* PaginationSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PaginationSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F19767C205250440034F39C /* PaginationSwiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaginationSwiftUITests.swift; sourceTree = "<group>"; };
 		8F19767E205250440034F39C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F19768A2052518A0034F39C /* PaginationcCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaginationcCollectionCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				8F197665205250440034F39C /* LaunchScreen.storyboard */,
 				8F197668205250440034F39C /* Info.plist */,
 				8F197660205250440034F39C /* PaginationSwift.xcdatamodeld */,
+				8F19768A2052518A0034F39C /* PaginationcCollectionCell.swift */,
 			);
 			path = PaginationSwift;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				8F197662205250440034F39C /* PaginationSwift.xcdatamodeld in Sources */,
 				8F19765C205250440034F39C /* ViewController.swift in Sources */,
 				8F19765A205250440034F39C /* AppDelegate.swift in Sources */,
+				8F19768B2052518A0034F39C /* PaginationcCollectionCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
